@@ -1,0 +1,17 @@
+body {
+  background: #fff;
+  text-align: center;
+  align-items: center;
+}
+#main {
+  top: 50%;
+  left: 70%;
+  border-radius: 10px;
+  border: 1px solid black;
+  
+}
+.btn {
+  border:2px solid #fff ;
+  border-radius: 5px;
+  margin: auto;
+}
